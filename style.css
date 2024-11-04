@@ -79,12 +79,6 @@ ul {
   transition: transform 0.3s;
 }
 
-#buttons-container {
-  display: grid;
-  grid-template-columns: repeat(2, 400px);
-  gap: 12px;
-}
-
 /* Button styling */
 .buttons {
   display: flex;
